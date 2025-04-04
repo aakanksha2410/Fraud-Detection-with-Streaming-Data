@@ -5,15 +5,15 @@ A real-time fraud detection pipeline using Apache Kafka, a Random Forest model, 
 
 ## Project Overview
 - **Goal**: Detect fraudulent credit card transactions in real-time.
-- **Tools**: Python (Scikit-learn, Kafka-Python), Apache Kafka, Snowflake.
+- **Tools Used**: Python (Scikit-learn, Kafka-Python), Apache Kafka, Snowflake.
 
 
 ## Setup Instructions
 
 ### Prerequisites
-- Python 3.9+
-- Apache Kafka (local or Docker)
-- Snowflake account
+- Python 
+- Apache Kafka (Docker)
+- Snowflake 
 - Dataset: [Kaggle Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
 ### Installation
