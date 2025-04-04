@@ -6,7 +6,7 @@ A real-time fraud detection pipeline using Apache Kafka, a Random Forest model, 
 ## Project Overview
 - **Goal**: Detect fraudulent credit card transactions in real-time.
 - **Tools**: Python (Scikit-learn, Kafka-Python), Apache Kafka, Snowflake.
-- **Resume Pitch**: "Engineered a real-time fraud detection pipeline using Kafka and Random Forest, improving detection accuracy by 20% over traditional batch processing."
+
 
 ## Setup Instructions
 
